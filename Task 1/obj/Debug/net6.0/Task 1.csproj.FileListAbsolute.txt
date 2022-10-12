@@ -1,0 +1,20 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Bluberries/obj/Debug/net6.0/Task 1.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Bluberries/obj/Debug/net6.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Bluberries/obj/Debug/net6.0/Task 1.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Bluberries/obj/Debug/net6.0/Task 1.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Bluberries/obj/Debug/net6.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/bin/Debug/net6.0/Task 1
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/bin/Debug/net6.0/Task 1.deps.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/bin/Debug/net6.0/Task 1.runtimeconfig.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/bin/Debug/net6.0/Task 1.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/bin/Debug/net6.0/Task 1.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/refint/Task 1.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/Task 1.genruntimeconfig.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 1/obj/Debug/net6.0/ref/Task 1.dll

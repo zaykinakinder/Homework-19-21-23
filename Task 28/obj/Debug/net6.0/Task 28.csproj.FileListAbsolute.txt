@@ -1,0 +1,15 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/bin/Debug/net6.0/Task 28
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/bin/Debug/net6.0/Task 28.deps.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/bin/Debug/net6.0/Task 28.runtimeconfig.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/bin/Debug/net6.0/Task 28.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/bin/Debug/net6.0/Task 28.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/refint/Task 28.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/Task 28.genruntimeconfig.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Seminar 25.09.2020/Task 28/obj/Debug/net6.0/ref/Task 28.dll
