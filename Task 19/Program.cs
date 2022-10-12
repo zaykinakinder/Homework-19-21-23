@@ -4,7 +4,7 @@ string n = Convert.ToString(Console.ReadLine());
 
 void Check(string n)
 {
-    if (n[0]==n [4] || n[1]==n [3]){
+    if (n[0]==n [4] && n[1]==n [3]){
         Console.WriteLine("Палиндром");
     }
     else Console.WriteLine("Не палиндром");
